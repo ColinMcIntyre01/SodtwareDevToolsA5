@@ -13,4 +13,4 @@ This my repsoitory
 https://en.wikipedia.org/wiki/Main_Page
 
 
-![Alt text](file:///home/tooltime/projects/SodtwareDevToolsA5/Exia.jpeg)
+![Alt text](Exia-1.jpeg)
